@@ -30,5 +30,7 @@ WebUI.setEncryptedText(findTestObject('Page_Facebook  log in or sign up/input_Fa
 
 WebUI.click(findTestObject('Page_Facebook  log in or sign up/button_Log In'))
 
+WebUI.verifyElementVisible(findTestObject('Page_Log in to Facebook/div_The email address or mobile number you _93c7eb'))
+
 WebUI.closeBrowser()
 
