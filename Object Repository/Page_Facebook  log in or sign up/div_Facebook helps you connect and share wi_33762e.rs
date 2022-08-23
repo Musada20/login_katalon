@@ -22,6 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>8d933c60-009e-4bde-8245-41d9c2755c3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_6luy _55r1 _1kbt _9nyh</value>
+      <webElementGuid>133d9d8f-cddf-4367-91f9-aca61102095c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>passContainer</value>
+      <webElementGuid>6506c37a-2511-472d-ba24-4d02b806265b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passContainer&quot;)</value>
+      <webElementGuid>ead3a5f7-34a3-457c-91ea-979e6d13f78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6063982c-6167-4df7-8868-016a6e929bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_6luy _55r1 _1kbt _9nyh</value>
+      <webElementGuid>d01028df-13f5-4645-b34e-e99c2c6e9cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>passContainer</value>
+      <webElementGuid>fa820976-2de1-4d82-aeee-91595642690d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passContainer&quot;)</value>
+      <webElementGuid>ca067e47-bbcb-4788-98e5-10b98a55310a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>63ac92bc-8150-4dcd-8c06-9e632f29a660</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +97,7 @@
       <webElementGuid>9d9c8e37-f7c8-4a55-996c-0127fb98a63d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -86,7 +150,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='passContainer']</value>
-      <webElementGuid>f6fbd17e-f9e4-48e8-a4ad-0ae2379ae6ac</webElementGuid>
+      <webElementGuid>eb35063d-f4d1-4b83-b587-baada678aa3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +158,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='u_0_2_Ph']/div/div[2]/div</value>
-      <webElementGuid>9148745a-3032-4066-8e53-115e971500d0</webElementGuid>
+      <webElementGuid>08ef31fb-251d-4c77-b83e-48e694e8e2e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook helps you connect and share with the people in your life.'])[1]/following::div[7]</value>
-      <webElementGuid>9196bcbf-61de-4fc5-bfbf-7895649b1ef7</webElementGuid>
+      <webElementGuid>e87c9d3f-f04d-45e3-b30c-0831ec8df088</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/preceding::div[4]</value>
-      <webElementGuid>8f73272b-2c05-4eb1-b02a-08d7230f82f4</webElementGuid>
+      <webElementGuid>df607d40-3a16-4308-a938-0bf539370876</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten password?'])[1]/preceding::div[5]</value>
-      <webElementGuid>4913dd87-5e3c-4fc4-8322-ab49da9fd052</webElementGuid>
+      <webElementGuid>40694e53-231a-4554-b38e-c61b76cf069c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +190,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[2]/div</value>
-      <webElementGuid>6ae502e3-9424-41c2-9977-c49daa6de451</webElementGuid>
+      <webElementGuid>81ae20c4-908a-4e23-9080-7932f956396e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +198,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'passContainer']</value>
-      <webElementGuid>412abbf0-a75f-4166-8533-3650144dfd8a</webElementGuid>
+      <webElementGuid>919b16fa-d1c8-4a56-9e05-ac35ba483e39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +206,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='u_0_2_D9']/div/div[2]/div</value>
-      <webElementGuid>152d8d36-6b68-4d75-a443-686be0d59462</webElementGuid>
+      <webElementGuid>21e3f3ac-2552-4e15-bc33-12d8db07f212</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

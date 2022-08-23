@@ -30,5 +30,7 @@ WebUI.setEncryptedText(findTestObject('Page_Facebook  log in or sign up/input_Fa
 
 WebUI.click(findTestObject('Page_Facebook  log in or sign up/button_Log In'))
 
+WebUI.verifyElementText(findTestObject(null), '')
+
 WebUI.closeBrowser()
 

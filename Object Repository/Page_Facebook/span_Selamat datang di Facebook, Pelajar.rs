@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selamat datang di Facebook, Pelajar</name>
+   <tag></tag>
+   <elementGuidId>2afb4f36-29a6-490c-b85e-e5fa251c5666</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_T9']/div/div/div/div[3]/div/div/div/div/div/div/div[2]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.gvxzyvdx.aeinzg81.t7p7dqev.gh25dzvf.exr7barw.b6ax4al1.gem102v4.ncib64c9.mrvwc6qr.sx8pxkcf.f597kf1v.cpcgwwas.thx2cq4v.hxfwr5lz.qntmu8s7.tq4zoyjo.o48pnaf2.pbevjfx6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f3a10ac-5f2a-4347-9601-8a5d6f537f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gvxzyvdx aeinzg81 t7p7dqev gh25dzvf exr7barw b6ax4al1 gem102v4 ncib64c9 mrvwc6qr sx8pxkcf f597kf1v cpcgwwas thx2cq4v hxfwr5lz qntmu8s7 tq4zoyjo o48pnaf2 pbevjfx6</value>
+      <webElementGuid>17053803-8d6f-43da-bdbc-9fcb96ae9754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>f6457973-f37e-4ba1-a725-7f06a5772bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat datang di Facebook, Pelajar</value>
+      <webElementGuid>4b4aa868-b5ee-4dfc-b1e9-d34ba53cef01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_T9&quot;)/div[1]/div[1]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg&quot;]/div[@class=&quot;g4tp4svg om3e55n1 cqf1kptm alzwoclg&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1&quot;]/div[@class=&quot;alzwoclg cqf1kptm om3e55n1 kyj84mfa cofpoq2j&quot;]/div[@class=&quot;alzwoclg cqf1kptm p1t2w4gn fawcizw8 om3e55n1 g4tp4svg&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg jez8cy9q jcxyg2ei o9w3sbdw sr926ui1 jl2a5g8c fawcizw8 h93itd9g&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg jg3vgc78 cgu29s5g i15ihif8 aeinzg81 sl27f92c hael596l sr926ui1 jl2a5g8c kwmpab9d fawcizw8 red7f7t1&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cgu29s5g i15ihif8 aeinzg81 jcxyg2ei o9w3sbdw sr926ui1 jl2a5g8c bdjfgm2q dhod7fyx ir39z7dx gqe1mzv8 av1hlb45&quot;]/div[@class=&quot;bdao358l om3e55n1 g4tp4svg alzwoclg cqf1kptm jez8cy9q gvxzyvdx aeinzg81&quot;]/div[@class=&quot;gvxzyvdx rnqnthk4 imjq5d63 flv4y0wt cbwvpmhb&quot;]/div[@class=&quot;fefz03bc dqdtlr0u&quot;]/span[@class=&quot;gvxzyvdx aeinzg81 t7p7dqev gh25dzvf exr7barw b6ax4al1 gem102v4 ncib64c9 mrvwc6qr sx8pxkcf f597kf1v cpcgwwas thx2cq4v hxfwr5lz qntmu8s7 tq4zoyjo o48pnaf2 pbevjfx6&quot;]</value>
+      <webElementGuid>3e93b71a-50dd-4780-8b34-0a8aa388f9b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_T9']/div/div/div/div[3]/div/div/div/div/div/div/div[2]/div/div/div/span</value>
+      <webElementGuid>9753447f-c7d7-45c7-9ad1-4588d5f4188f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::span[1]</value>
+      <webElementGuid>75ce713d-04ab-47b4-a94e-a03ca6312e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[1]/following::span[5]</value>
+      <webElementGuid>f26c1289-f265-4118-8034-c3799c825de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Foto Profil'])[1]/preceding::span[1]</value>
+      <webElementGuid>9f247747-451a-42a9-9988-6f3fce46ba4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambahkan foto agar teman dapat mengenali Anda dengan mudah.'])[1]/preceding::span[3]</value>
+      <webElementGuid>605bf34e-901f-4d16-9362-afcfa97a2177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selamat datang di Facebook, Pelajar']/parent::*</value>
+      <webElementGuid>2479027f-a393-4e1f-8524-b80d475cc23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/span</value>
+      <webElementGuid>d405f49b-a255-4b8a-b077-a13ae2f448bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selamat datang di Facebook, Pelajar' or . = 'Selamat datang di Facebook, Pelajar')]</value>
+      <webElementGuid>91025739-6d6b-43cc-8714-8619db198d83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
